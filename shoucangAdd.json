@@ -5,7 +5,7 @@
     {
       "isCollected": 0,
       "movie_id": 10000,
-      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o8tr9j20ku0dwn0l",
+      "movie_img": "https://ws2.sinaimg.cn/large/9632d3f5jw1fcr0mlx1utj20ku0dwn0l.jpg",
       "movie_name": "泰坦尼克号",
       "movie_style": "爱情/剧情",
       "play_date": "0",
@@ -17,7 +17,7 @@
     {
       "isCollected": 1,
       "movie_id": 10001,
-      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05ooxaqj20ku0dwdlv",
+      "movie_img": "https://ws4.sinaimg.cn/large/9632d3f5jw1fcr0mm5f9uj20ku0dwdlv.jpg",
       "movie_name": "一夜定情",
       "movie_style": "爱情/剧情",
       "play_date": "0",
@@ -29,7 +29,7 @@
     {
       "isCollected": 0,
       "movie_id": 10002,
-      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o95ptj20ku0dwgpn",
+      "movie_img": "https://ws3.sinaimg.cn/large/9632d3f5jw1fcr0mlyvjlj20ku0dwgpn.jpg",
       "movie_name": "血战钢锯岭",
       "movie_style": "爱情/剧情",
       "play_date": "0",
