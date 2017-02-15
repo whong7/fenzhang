@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "success",
+  "result": [
+    {
+      "isCollected": 0,
+      "movie_id": 10000,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o8tr9j20ku0dwn0l",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10001,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05ooxaqj20ku0dwdlv",
+      "movie_name": "一夜定情",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10002,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o95ptj20ku0dwgpn",
+      "movie_name": "血战钢锯岭",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10003,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o7ac1j20ku0dwgnq",
+      "movie_name": "盗梦空间",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10004,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05odkn4j20ku0dw421",
+      "movie_name": "魔兽世界",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10005,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05ogsihj20ku0dwgpk",
+      "movie_name": "中国合伙人",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10006,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05onacij20ku0dwn30",
+      "movie_name": "蝙蝠侠:黑暗骑士",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10007,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05ofh2kj20ku0dwn0q",
+      "movie_name": "煎饼侠",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10008,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05o8terj20ku0dw41r",
+      "movie_name": "碟中谍",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10009,
+      "movie_img": "http://ww1.sinaimg.cn/large/9632d3f5ly1fcr05opeinj20ku0dw7a9",
+      "movie_name": "天台",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    }
+  ]
+}
